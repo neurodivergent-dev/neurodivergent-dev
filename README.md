@@ -84,21 +84,21 @@ I'm a Software Developer and Senior Prompt Engineer with a passion for **Generat
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melihcanndemir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melihdemirdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melihcanndemir&theme=github_dark" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melihdemirdev&theme=github_dark" alt="Profile Summary"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melihcanndemir&theme=github_dark" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=melihcanndemir&theme=github_dark" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melihdemirdev&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=melihdemirdev&theme=github_dark" alt="Most Commit Language"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melihcanndemir&theme=github_dark" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=melihcanndemir&theme=github_dark&utcOffset=3" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melihdemirdev&theme=github_dark" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=melihdemirdev&theme=github_dark&utcOffset=3" alt="Productive Time"/>
 </div>
 
 ---
@@ -106,7 +106,7 @@ I'm a Software Developer and Senior Prompt Engineer with a passion for **Generat
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melihcanndemir&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=melihdemirdev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -187,19 +187,19 @@ I'm a Software Developer and Senior Prompt Engineer with a passion for **Generat
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melihcanndemir&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melihdemirdev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/melihcanndemir/melihcanndemir/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/melihdemirdev/melihdemirdev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=melihcanndemir&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=melihdemirdev&color=58a6ff&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
