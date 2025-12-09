@@ -2,7 +2,7 @@
   <img src="images/banner.png" alt="banner" />
 </p>
 
-# AI-Native Software Developer
+# Software Developer
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Software+Developer;Building+AI-Integrated+Systems" alt="Typing SVG" /></a>
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a Software Developer and Senior Prompt Engineer with a passion for **Generative AI** and building intelligent applications. As an active **OSS Contributor**, I love creating tools that combine elegant user experience with cutting-edge AI capabilities. Currently working on **Mindbook**, an AI-native productivity app that helps users organize their thoughts and boost mental clarity.
+I'm a Software Developer and Prompt Engineer with a passion for **Generative AI** and building intelligent applications. As an active **OSS Contributor**, I love creating tools that combine elegant user experience with cutting-edge AI capabilities. Currently working on **Mindbook**, an AI-native productivity app that helps users organize their thoughts and boost mental clarity.
 
 - 🔭 **Currently Building:** Akilhane - An AI-powered Turkish Education Platform
 - 🤖 **AI Focus:** Generative AI, Prompt Engineering, and AI-native applications
