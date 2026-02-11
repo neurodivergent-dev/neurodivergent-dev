@@ -173,19 +173,19 @@ I'm a Software Developer and Prompt Engineer with a passion for **Generative AI*
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melihdemirdev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neurodivergent-dev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/melihdemirdev/melihdemirdev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/neurodivergent-dev/neurodivergent-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=melihdemirdev&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=neurodivergent-dev&color=58a6ff&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
