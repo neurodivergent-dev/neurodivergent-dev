@@ -154,12 +154,6 @@ I'm a Software Developer and Prompt Engineer with a passion for **Generative AI*
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/melihcandemir">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/melihcandemir">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="mailto:melihcandemir@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
