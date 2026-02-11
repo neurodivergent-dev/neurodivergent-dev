@@ -82,17 +82,17 @@ I'm a Software Developer and Prompt Engineer with a passion for **Generative AI*
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melihdemirdev&theme=github_dark" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neurodivergent-dev&theme=github_dark" alt="Profile Summary"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melihdemirdev&theme=github_dark" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=melihdemirdev&theme=github_dark" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neurodivergent-dev&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neurodivergent-dev&theme=github_dark" alt="Most Commit Language"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melihdemirdev&theme=github_dark" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=melihdemirdev&theme=github_dark&utcOffset=3" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neurodivergent-dev&theme=github_dark" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neurodivergent-dev&theme=github_dark&utcOffset=3" alt="Productive Time"/>
 </div>
 
 ---
