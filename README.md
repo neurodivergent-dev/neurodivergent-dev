@@ -32,7 +32,6 @@ I'm a Software Developer and Prompt Engineer with a passion for **Generative AI*
 
 ### AI & Prompt Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/Generative_AI-00D4FF?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI" />
