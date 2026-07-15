@@ -28,15 +28,16 @@
 *   **Autonomous Development:** Utilizing agentic orchestration to automate complex workflows and maintain high engineering standards with zero-compromise quality.
 
 ## 📱 Featured Apps
-**[Mindbook Pro](https://mindbook.space/en):** AI-native productivity tool focused on mental clarity and thought organization.
+
 *   **[Divergent AI](https://play.google.com/store/apps/details?id=com.metaframe.divergentai)**
 *   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)**
 *   **[Mindhouse]:** Currently developing an AI-powered platform designed for modern, intelligent learning experiences.
 
 ## ✍️ Insights & Writing
 
+*   [The Microservice Illusion in Small-Scale Startups: A Critical Examination of Architectural Choices](https://medium.com/@melihcandemir/the-microservice-illusion-in-small-scale-startups-a-critical-examination-of-architectural-choices-17f0aadc07a8)
+*   [AI-Assisted Multi-Agent Orchestration Strategies](https://medium.com/@melihcandemir/ai-assisted-multi-agent-orchestration-strategies-dd537ab1b90c)
 *   [Beyond Prompts: Building AI-Native Systems with Modular Reasoning](https://medium.com/@melihcandemir/beyond-prompts-building-ai-native-systems-with-modular-reasoning-and-recursive-architectures-e865a9282816)
-*   [Recursive Dual-AI Consciousness: Entropy, Reflection, and Emergent Intersubjectivity](https://medium.com/@melihcandemir/title-recursive-dual-ai-consciousness-entropy-reflection-and-emergent-intersubjectivity-612ae073c876)
 
 ---
 
