@@ -7,17 +7,17 @@
   I don't just write code; I architect systems that scale using SOLID principles and strict engineering standards.
 </p>
 
-<div align="center">
-  <a href="https://linkedin.com/in/neurodivergent-dev">
+<p align="center">
+  <a href="https://linkedin.com/in/neurodivergent-dev" style="text-decoration:none !important; border-bottom:none !important;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
   </a>
-  <a href="https://medium.com/@melihcandemir">
+  <a href="https://medium.com/@melihcandemir" style="text-decoration:none !important; border-bottom:none !important;">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40">
   </a>
-  <a href="mailto:melihcandemir@protonmail.com">
+  <a href="mailto:melihcandemir@protonmail.com" style="text-decoration:none !important; border-bottom:none !important;">
     <img src="https://img.shields.io/badge/ProtonMail-6d4e87?style=for-the-badge&logo=protonmail&logoColor=white" height="40">
   </a>
-</div>
+</p>
 
 ---
 
