@@ -35,6 +35,7 @@ I specialize in building complex, autonomous systems:
 ---
 
 ## 📱 Featured Apps
+*   **[Mindbook Pro](https://play.google.com/store/apps/details?id=com.melihcandemir.mindbook&hl=en)**
 *   **[Divergent AI](https://play.google.com/store/apps/details?id=com.metaframe.divergentai)**
 *   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)**
 *   **[Mindhouse]:** Currently developing an AI-powered platform for modern learning.
