@@ -4,10 +4,6 @@
 
 <h1 align="center">Melih Can Demir</h1>
 <p align="center"><strong>Software Developer & AI Solutions Architect</strong></p>
-... (profilin geri kalanı aynı)
-
-<h1 align="center">Melih Can Demir</h1>
-<p align="center"><strong>Software Developer & AI Solutions Architect</strong></p>
 
 <p align="center">
   Building intelligent, scalable, and AI-native applications. 
