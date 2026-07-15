@@ -27,9 +27,10 @@
 *   **Architectural Scalability:** Designing robust, modular systems capable of handling multi-language support (25+ languages) and high-concurrency environments.
 *   **Autonomous Development:** Utilizing agentic orchestration to automate complex workflows and maintain high engineering standards with zero-compromise quality.
 
-## 📱 Featured Work
-
-*   **[Mindbook Pro](https://bit.ly/melihcan):** AI-native productivity tool focused on mental clarity and thought organization.
+## 📱 Featured Apps
+**[Mindbook Pro](https://mindbook.space/en):** AI-native productivity tool focused on mental clarity and thought organization.
+*   **[Divergent AI](https://play.google.com/store/apps/details?id=com.metaframe.divergentai)**
+*   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)**
 *   **[Mindhouse]:** Currently developing an AI-powered platform designed for modern, intelligent learning experiences.
 
 ## ✍️ Insights & Writing
