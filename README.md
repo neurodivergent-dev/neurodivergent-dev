@@ -35,10 +35,10 @@ I specialize in building complex, autonomous systems:
 ---
 
 ## 📱 Featured Apps
-*   **[Mindbook Pro](https://play.google.com/store/apps/details?id=com.melihcandemir.mindbook&hl=en)**
-*   **[Divergent AI](https://play.google.com/store/apps/details?id=com.metaframe.divergentai)**
-*   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)**
-*   **[Mindhouse]:** Currently developing an AI-powered platform for modern learning.
+*   **[Mindbook Pro](https://play.google.com/store/apps/details?id=com.melihcandemir.mindbook&hl=en)** — Securely capture, organize, and protect your thoughts with an AI-native interface.
+*   **[Divergent AI](https://play.google.com/store/apps/details?id=com.metaframe.divergentai)** — Break free from conventional thought patterns and unlock your unique creative potential.
+*   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)** — A minimalist, high-performance target management tool designed to boost productivity by limiting you to 3 essential goals per day.
+*   **[Mindhouse]** — Currently developing an AI-powered platform for modern learning.
 
 ## ✍️ Insights & Writing
 *   [The Microservice Illusion in Small-Scale Startups: A Critical Examination of Architectural Choices](https://medium.com/@melihcandemir/the-microservice-illusion-in-small-scale-startups-a-critical-examination-of-architectural-choices-17f0aadc07a8)
