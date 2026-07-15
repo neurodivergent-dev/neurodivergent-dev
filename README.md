@@ -41,6 +41,7 @@ I specialize in building complex, autonomous systems:
 *   **[Mindhouse]** — Currently developing an AI-powered platform for modern learning.
 
 ## ✍️ Insights & Writing
+*   [Developer Mode ON: Crafting an Expert-Level Prompt for AI-Augmented Engineering](https://medium.com/@melihcandemir/developer-mode-on-crafting-an-expert-level-prompt-for-ai-augmented-engineering-56a7e5a6754b)
 *   [The Microservice Illusion in Small-Scale Startups: A Critical Examination of Architectural Choices](https://medium.com/@melihcandemir/the-microservice-illusion-in-small-scale-startups-a-critical-examination-of-architectural-choices-17f0aadc07a8)
 *   [AI-Assisted Multi-Agent Orchestration Strategies](https://medium.com/@melihcandemir/ai-assisted-multi-agent-orchestration-strategies-dd537ab1b90c)
 *   [Beyond Prompts: Building AI-Native Systems with Modular Reasoning](https://medium.com/@melihcandemir/beyond-prompts-building-ai-native-systems-with-modular-reasoning-and-recursive-architectures-e865a9282816)
