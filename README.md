@@ -2,9 +2,6 @@
   <img src="images/neurodivergent-dev.png" alt="Melih Can Demir - Software Developer & AI Solutions Architect Banner" />
 </p>
 
-<h1 align="center">Melih Can Demir</h1>
-<p align="center"><strong>Software Developer & AI Solutions Architect</strong></p>
-
 <p align="center">
   Building intelligent, scalable, and AI-native applications. 
   I don't just write code; I architect systems that scale using SOLID principles and strict engineering standards.
