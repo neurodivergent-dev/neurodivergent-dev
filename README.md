@@ -45,6 +45,10 @@ I specialize in building complex, autonomous systems:
 *   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)**  — **A minimalist, high-performance target management tool designed to boost productivity.**
 *   **[Mindhouse](https://mindhouse.vercel.app/tr/landing)**                                    — **AI-powered platform for modern learning.**
 
+### 🧰 Open Source & Dev Tools
+*   **[Repo Intelligence Layer](https://github.com/neurodivergent-dev/repo-intelligence-layer)** — **An AI-powered intelligence layer designed to analyze, orchestrate, and chat with codebase context.**
+*   **[Mini-Meta CLI](https://github.com/neurodivergent-dev/mini-meta-cli)**                     — **A custom local action engine designed to automate file parsing and shell script execution via autonomous workflows.**
+
 ## ✍️ Insights & Writing
 *   [Developer Mode ON: Crafting an Expert-Level Prompt for AI-Augmented Engineering](https://medium.com/@melihcandemir/developer-mode-on-crafting-an-expert-level-prompt-for-ai-augmented-engineering-56a7e5a6754b)
 *   [The Microservice Illusion in Small-Scale Startups: A Critical Examination of Architectural Choices](https://medium.com/@melihcandemir/the-microservice-illusion-in-small-scale-startups-a-critical-examination-of-architectural-choices-17f0aadc07a8)
