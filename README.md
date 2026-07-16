@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Expertise & Delivery
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff" width="28" /> Expertise & Delivery
 
 Whether it's a cross-platform mobile app or a high-performance web platform, I handle the entire lifecycle—from pixel-perfect UI design to secure backend architecture. I deliver products at lightning speed with zero-compromise quality, utilizing **Agentic Orchestration** as my core development methodology.
 
