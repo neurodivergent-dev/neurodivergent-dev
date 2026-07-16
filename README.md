@@ -9,10 +9,11 @@
 
 <div align="center">
 
+[![Google Play](https://img.shields.io/badge/Google_Play-EA4335?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5145471264212833611)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neurodivergent-dev)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@melihcandemir)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-6d4e87?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:melihcandemir@protonmail.com)
-[![Google Play](https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5145471264212833611)
+
 
 </div>
 
