@@ -18,18 +18,18 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff" width="28" /> Expertise & Delivery
+## <img src="https://api.iconify.design/ph/rocket-duotone.svg?color=%23E5B869" width="30" /> Expertise & Delivery
 
 Whether it's a cross-platform mobile app or a high-performance web platform, I handle the entire lifecycle—from pixel-perfect UI design to secure backend architecture. I deliver products at lightning speed with zero-compromise quality, utilizing **Agentic Orchestration** as my core development methodology.
 
-### <img src="https://api.iconify.design/lucide/layers.svg?color=%2358a6ff" width="24" /> Core Tech Stack
+### <img src="https://api.iconify.design/ph/stack-duotone.svg?color=%23E5B869" width="26" /> Core Tech Stack
 - **Development:** React Native (Expo), React.js, Next.js, Tauri (Rust) + Vite.
 - **Backend & Cloud:** Supabase (PostgreSQL, Auth, Edge Functions), Firebase.
 - **Tooling & DevOps:** TypeScript (Strict Mode), GitHub Actions, CircleCI, Vercel, Netlify.
 - **Quality Assurance:** Jest (Unit/Integration), Maestro (E2E Mobile Testing).
 - **Scale & UX:** i18next/Intlayer (25+ Languages), Lemon Squeezy/RevenueCat, Advanced 3D/Fluid Animations.
 
-### <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%2358a6ff" width="24" /> Advanced AI Orchestration
+### <img src="https://api.iconify.design/ph/brain-duotone.svg?color=%23E5B869" width="26" /> Advanced AI Orchestration
 I specialize in building complex, autonomous systems:
 - **Multi-Provider Orchestration:** Agnostic systems leveraging Gemini, Groq, OpenAI, and Claude to optimize speed, cost, and intelligence.
 - **Agentic RAG:** Designing smart systems that reason and act upon retrieved data.
@@ -38,17 +38,17 @@ I specialize in building complex, autonomous systems:
 
 ---
 
-### <img src="https://api.iconify.design/lucide/monitor-smartphone.svg?color=%2358a6ff" width="24" /> Featured Apps
+### <img src="https://api.iconify.design/ph/device-mobile-duotone.svg?color=%23E5B869" width="26" /> Featured Apps
 *   **[Mindbook Pro](https://mindbook.space)**                                         — **Securely capture, organize, and protect your thoughts with an AI-native interface.**
 *   **[Divergent AI](https://play.google.com/store/apps/details?id=com.metaframe.divergentai)** — **Break free from conventional thought patterns and unlock your unique creative potential.**
 *   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)**  — **A minimalist, high-performance target management tool designed to boost productivity.**
 *   **[Mindhouse](https://mindhouse.vercel.app/tr/landing)**                                   — **AI-powered platform for modern learning.**
 
-### <img src="https://api.iconify.design/lucide/terminal-square.svg?color=%2358a6ff" width="24" /> Open Source & Dev Tools
+### <img src="https://api.iconify.design/ph/terminal-window-duotone.svg?color=%23E5B869" width="26" /> Open Source & Dev Tools
 *   **[Repo Intelligence Layer](https://github.com/neurodivergent-dev/repo-intelligence-layer)** — **An AI-powered intelligence layer designed to analyze, orchestrate, and chat with codebase context.**
 *   **[Mini-Meta CLI](https://github.com/neurodivergent-dev/mini-meta-cli)**                     — **A custom local action engine designed to automate file parsing and shell script execution via autonomous workflows.**
 
-## <img src="https://api.iconify.design/lucide/feather.svg?color=%2358a6ff" width="28" /> Insights & Writing
+## <img src="https://api.iconify.design/ph/pen-nib-duotone.svg?color=%23E5B869" width="30" /> Insights & Writing
 *   [Developer Mode ON: Crafting an Expert-Level Prompt for AI-Augmented Engineering](https://medium.com/@melihcandemir/developer-mode-on-crafting-an-expert-level-prompt-for-ai-augmented-engineering-56a7e5a6754b)
 *   [The Microservice Illusion in Small-Scale Startups: A Critical Examination of Architectural Choices](https://medium.com/@melihcandemir/the-microservice-illusion-in-small-scale-startups-a-critical-examination-of-architectural-choices-17f0aadc07a8)
 *   [AI-Assisted Multi-Agent Orchestration Strategies](https://medium.com/@melihcandemir/ai-assisted-multi-agent-orchestration-strategies-dd537ab1b90c)
