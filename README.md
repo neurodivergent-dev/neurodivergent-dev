@@ -43,7 +43,7 @@ I specialize in building complex, autonomous systems:
 *   **[Mindbook Pro](https://mindbook.space)** — Securely capture, organize, and protect your thoughts with an AI-native interface.
 *   **[Divergent AI](https://play.google.com/store/apps/details?id=com.metaframe.divergentai)** — Break free from conventional thought patterns and unlock your unique creative potential.
 *   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)** — A minimalist, high-performance target management tool designed to boost productivity.
-*   **[Mindhouse](...)** — Currently developing an AI-powered platform for modern learning.
+*   **[Mindhouse](https://mindhouse.vercel.app/tr/landing)** — AI-powered platform for modern learning.
 
 ## ✍️ Insights & Writing
 *   [Developer Mode ON: Crafting an Expert-Level Prompt for AI-Augmented Engineering](https://medium.com/@melihcandemir/developer-mode-on-crafting-an-expert-level-prompt-for-ai-augmented-engineering-56a7e5a6754b)
