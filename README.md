@@ -45,8 +45,10 @@ I specialize in building complex, autonomous systems:
 *   **[Mindhouse](https://mindhouse.vercel.app/tr/landing)**                                   — **AI-powered platform for modern learning.**
 
 ### <img src="https://api.iconify.design/ph/terminal-window-duotone.svg?color=%23E5B869" width="26" /> Open Source & Dev Tools
-*   **[Repo Intelligence Layer](https://github.com/neurodivergent-dev/repo-intelligence-layer)** — **An AI-powered intelligence layer designed to analyze, orchestrate, and chat with codebase context.**
-*   **[Mini-Meta CLI](https://github.com/neurodivergent-dev/mini-meta-cli)**                     — **A custom local action engine designed to automate file parsing and shell script execution via autonomous workflows.**
+*   **[Repo Intelligence Layer](https://github.com/neurodivergent-dev/repo-intelligence-layer)**     — **An AI-powered intelligence layer designed to analyze, orchestrate, and chat with codebase context.**
+*   **[Mini-Meta CLI](https://github.com/neurodivergent-dev/mini-meta-cli)**                         — **A custom local action engine designed to automate file parsing and shell script execution via autonomous workflows.**
+*   **[i18next-local-inference](https://github.com/neurodivergent-dev/i18next-local-inference)**     — **Autonomous Application Translation Automation with Local Ollama Model Inferences.**
+
 
 ## <img src="https://api.iconify.design/ph/pen-nib-duotone.svg?color=%23E5B869" width="30" /> Insights & Writing
 *   [Developer Mode ON: Crafting an Expert-Level Prompt for AI-Augmented Engineering](https://medium.com/@melihcandemir/developer-mode-on-crafting-an-expert-level-prompt-for-ai-augmented-engineering-56a7e5a6754b)
