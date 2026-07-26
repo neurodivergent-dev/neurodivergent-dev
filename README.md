@@ -49,13 +49,6 @@ I specialize in building complex, autonomous systems:
 *   **[Mini-Meta CLI](https://github.com/neurodivergent-dev/mini-meta-cli)**                         — **A custom local action engine designed to automate file parsing and shell script execution via autonomous workflows.**
 *   **[i18next-local-inference](https://github.com/neurodivergent-dev/i18next-local-inference)**     — **Autonomous Application Translation Automation with Local Ollama Model Inferences.**
 
-
-## <img src="https://api.iconify.design/ph/pen-nib-duotone.svg?color=%23E5B869" width="30" /> Insights & Writing
-*   [Developer Mode ON: Crafting an Expert-Level Prompt for AI-Augmented Engineering](https://medium.com/@melihcandemir/developer-mode-on-crafting-an-expert-level-prompt-for-ai-augmented-engineering-56a7e5a6754b)
-*   [The Microservice Illusion in Small-Scale Startups: A Critical Examination of Architectural Choices](https://medium.com/@melihcandemir/the-microservice-illusion-in-small-scale-startups-a-critical-examination-of-architectural-choices-17f0aadc07a8)
-*   [AI-Assisted Multi-Agent Orchestration Strategies](https://medium.com/@melihcandemir/ai-assisted-multi-agent-orchestration-strategies-dd537ab1b90c)
-*   [Beyond Prompts: Building AI-Native Systems with Modular Reasoning](https://medium.com/@melihcandemir/beyond-prompts-building-ai-native-systems-with-modular-reasoning-and-recursive-architectures-e865a9282816)
-
 ---
 
 <p align="center">
