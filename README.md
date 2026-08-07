@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/neurodivergent-dev.png" alt="Melih Can Demir - AI-Native Product Engineer Banner" />
+  <img src="images/banner.png" alt="Melih Can Demir - AI-Native Product Engineer Banner" />
 </p>
 
 <p align="center">
