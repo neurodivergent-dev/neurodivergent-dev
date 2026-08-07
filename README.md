@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="images/neurodivergent-dev.png" alt="Melih Can Demir - Software Developer & AI Solutions Architect Banner" />
+  <img src="images/neurodivergent-dev.png" alt="Melih Can Demir - AI-Native Product Engineer Banner" />
 </p>
 
 <p align="center">
-  Building intelligent, scalable, and AI-native applications. 
-  I don't just write code; I architect systems that scale using SOLID principles and strict engineering standards.
+  Building intelligent, scalable, AI-native applications.
+  I use AI-assisted, agentic development workflows to design and ship products end-to-end.
 </p>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 ## <img src="https://api.iconify.design/ph/rocket-duotone.svg?color=%23E5B869" width="30" /> Expertise & Delivery
 
-Whether it's a cross-platform mobile app or a high-performance web platform, I handle the entire lifecycle—from pixel-perfect UI design to secure backend architecture. I deliver products at lightning speed with zero-compromise quality, utilizing **Agentic Orchestration** as my core development methodology.
+Whether it's a cross-platform mobile app or a high-performance web platform, I handle the end-to-end product lifecycle—from UI design to backend implementation—using **Agentic Orchestration** as my core development workflow to build and ship fast.
 
 ### <img src="https://api.iconify.design/ph/stack-duotone.svg?color=%23E5B869" width="26" /> Core Tech Stack
 - **Development:** React Native (Expo), React.js, Next.js, Tauri (Rust) + Vite.
@@ -32,24 +32,23 @@ Whether it's a cross-platform mobile app or a high-performance web platform, I h
 I specialize in building complex, autonomous systems:
 - **Multi-Provider Orchestration:** Agnostic systems leveraging Gemini, Groq, OpenAI, and Claude to optimize speed, cost, and intelligence.
 - **Agentic RAG:** Designing smart systems that reason and act upon retrieved data.
-- **Context & Harness Engineering:** Building robust prompt architectures and safety layers for reliable AI agents.
+- **Context & Harness Engineering:** Building prompt architectures with input moderation and prompt-injection safeguards for reliable AI agents.
 - **BYOK Architecture:** "Bring Your Own Key" support for full cost control, model flexibility, and data privacy.
 
 ---
 
 ### <img src="https://api.iconify.design/ph/device-mobile-duotone.svg?color=%23E5B869" width="26" /> Featured Apps
-*   **[Mindbook Pro](https://mindbook.space)**                                         — **Securely capture, organize, and protect your thoughts with an AI-native interface.**
+*   **[Mindbook Pro](https://mindbook.space)** — **Capture, organize, and manage your thoughts with an AI-native interface.**
 *   **[Divergent AI](https://play.google.com/store/apps/details?id=com.metaframe.divergentai)** — **Break free from conventional thought patterns and unlock your unique creative potential.**
-*   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)**  — **A minimalist, high-performance target management tool designed to boost productivity.**
-*   **[Mindhouse](https://mindhouse.vercel.app/tr/landing)**                                   — **AI-powered platform for modern learning.**
+*   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)** — **A minimalist, high-performance target management tool designed to boost productivity.**
 
 ### <img src="https://api.iconify.design/ph/terminal-window-duotone.svg?color=%23E5B869" width="26" /> Open Source & Dev Tools
-*   **[Repo Intelligence Layer](https://github.com/neurodivergent-dev/repo-intelligence-layer)**     — **An AI-powered intelligence layer designed to analyze, orchestrate, and chat with codebase context.**
-*   **[Mini-Meta CLI](https://github.com/neurodivergent-dev/mini-meta-cli)**                         — **A custom local action engine designed to automate file parsing and shell script execution via autonomous workflows.**
-*   **[i18next-local-inference](https://github.com/neurodivergent-dev/i18next-local-inference)**     — **Autonomous Application Translation Automation with Local Ollama Model Inferences.**
+*   **[Repo Intelligence Layer](https://github.com/neurodivergent-dev/repo-intelligence-layer)** — **An AI-powered intelligence layer designed to analyze, orchestrate, and chat with codebase context.**
+*   **[Mini-Meta CLI](https://github.com/neurodivergent-dev/mini-meta-cli)** — **A custom local action engine designed to automate file parsing and shell script execution via autonomous workflows.**
+*   **[i18next-local-inference](https://github.com/neurodivergent-dev/i18next-local-inference)** — **Autonomous Application Translation Automation with Local Ollama Model Inferences.**
 
 ---
 
 <p align="center">
-  <em>“I don't just write code. I bring projects to life at lightning speed and with zero errors using Agentic Orchestration.”</em>
+  <em>"I use AI-assisted, agentic workflows to move fast and ship real products."</em>
 </p>
