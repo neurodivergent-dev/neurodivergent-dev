@@ -37,10 +37,13 @@ I specialize in building complex, autonomous systems:
 
 ---
 
-### <img src="https://api.iconify.design/ph/device-mobile-duotone.svg?color=%23E5B869" width="26" /> Featured Apps
-*   **[Mindbook Pro](https://mindbook.space)** — **Capture, organize, and manage your thoughts with an AI-native interface.**
-*   **[Divergent AI](https://play.google.com/store/apps/details?id=com.metaframe.divergentai)** — **Break free from conventional thought patterns and unlock your unique creative potential.**
-*   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)** — **A minimalist, high-performance target management tool designed to boost productivity.**
+### <img src="https://api.iconify.design/ph/device-mobile-duotone.svg?color=%23E5B869" width="26" /> Featured Production Apps
+*   **[Mindbook Pro](https://mindbook.space)** `Markdown & AI` — Capture, organize, and manage your thoughts with an AI-native, zero-knowledge interface.
+*   **[Meta Box](https://play.google.com/store/apps/details?id=com.metaframe.metabox)** `AI App Builder` — On-device AI app generator and sandboxed mobile runtime environment.
+*   **[Neurodivergence](https://play.google.com/store/apps/details?id=com.metaframe.neurodivergence)** `Consciousness` — Cognitive reframing and adaptive AI companion for unconventional thinkers.
+*   **[Mindhouse](https://play.google.com/store/apps/details?id=com.metaframe.mindhouse)** `Learning` — AI-powered study companion and accelerated knowledge synthesis.
+*   **[Divergent AI](https://play.google.com/store/apps/details?id=com.metaframe.divergentai)** `Productivity` — Break free from conventional thought patterns and unlock creative potential.
+*   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)** `Deep Focus` — Minimalist, high-performance target management tool designed for deep work.
 
 ### <img src="https://api.iconify.design/ph/terminal-window-duotone.svg?color=%23E5B869" width="26" /> Open Source & Dev Tools
 *   **[Repo Intelligence Layer](https://github.com/neurodivergent-dev/repo-intelligence-layer)** — **An AI-powered intelligence layer designed to analyze, orchestrate, and chat with codebase context.**
