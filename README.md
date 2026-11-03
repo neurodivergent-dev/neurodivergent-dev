@@ -49,6 +49,7 @@ I specialize in building complex, autonomous systems:
 *   **[Repo Intelligence Layer](https://github.com/neurodivergent-dev/repo-intelligence-layer)** — **An AI-powered intelligence layer designed to analyze, orchestrate, and chat with codebase context.**
 *   **[Mini-Meta CLI](https://github.com/neurodivergent-dev/mini-meta-cli)** — **A custom local action engine designed to automate file parsing and shell script execution via autonomous workflows.**
 *   **[i18next-local-inference](https://github.com/neurodivergent-dev/i18next-local-inference)** — **Autonomous Application Translation Automation with Local Ollama Model Inferences.**
+*   **[autonomousengineeringsystem](https://github.com/neurodivergent-dev/autonomousengineeringsystem)** — **Unified Codebase Intelligence, AST Knowledge Graph & Closed-Loop Agentic Architecture**
 
 ---
 
