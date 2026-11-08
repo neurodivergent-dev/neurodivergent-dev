@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/banner-v3.png" alt="Melih Can Demir - AI-Native Product Engineer Banner" />
-</p>
+![Melih Can Demir - AI-Native Product Engineer Banner](images/banner.gif)
 
 <p align="center">
   Building intelligent, scalable, AI-native applications.
