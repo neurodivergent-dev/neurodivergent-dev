@@ -36,6 +36,7 @@ I specialize in building complex, autonomous systems:
 ---
 
 ### <img src="https://api.iconify.design/ph/device-mobile-duotone.svg?color=%23E5B869" width="26" /> Featured Production Apps
+*   **[CyberDeck OS](https://play.google.com/store/apps/details?id=com.metaframe.cyberdeck)** `AI Android Launcher` — Cyberpunk Android Home Replacement with live GLSL WebGL shaders, 30+ HUD widgets, on-device Sucrase TSX widget studio, and 9-provider BYOK AI orchestration.
 *   **[Mindbook Pro](https://mindbook.space)** `Markdown & AI` — Capture, organize, and manage your thoughts with an AI-native, zero-knowledge interface.
 *   **[Meta Box](https://play.google.com/store/apps/details?id=com.metaframe.metabox)** `AI App Builder` — On-device AI app generator and sandboxed mobile runtime environment.
 *   **[Neurodivergence](https://play.google.com/store/apps/details?id=com.metaframe.neurodivergence)** `Consciousness` — Cognitive reframing and adaptive AI companion for unconventional thinkers.
@@ -44,6 +45,8 @@ I specialize in building complex, autonomous systems:
 *   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)** `Deep Focus` — Minimalist, high-performance target management tool designed for deep work.
 
 ### <img src="https://api.iconify.design/ph/terminal-window-duotone.svg?color=%23E5B869" width="26" /> Open Source & Dev Tools
+*   **[CyberDeck OS Launcher](https://github.com/neurodivergent-dev/cyberdeck-launcher)** — **AI-Native Cyberpunk Android Home Replacement featuring live GLSL shaders, native AppWidgetHost binding, TSX runtime widget sandbox, and 9-provider BYOK AI.**
+*   **[RetroDeck OS (Nokia 3310 Edition)](https://github.com/neurodivergent-dev/retrodeck-arcade)** — **100-in-1 60 FPS Pocket Console & Nokia 3310 Firmware OS with real-time piezo WAV ringtone synthesis, 9-provider BYOK AI Picture SMS, and a live WAP 1.1 Web Browser.**
 *   **[Repo Intelligence Layer](https://github.com/neurodivergent-dev/repo-intelligence-layer)** — **An AI-powered intelligence layer designed to analyze, orchestrate, and chat with codebase context.**
 *   **[Mini-Meta CLI](https://github.com/neurodivergent-dev/mini-meta-cli)** — **A custom local action engine designed to automate file parsing and shell script execution via autonomous workflows.**
 *   **[i18next-local-inference](https://github.com/neurodivergent-dev/i18next-local-inference)** — **Autonomous Application Translation Automation with Local Ollama Model Inferences.**
