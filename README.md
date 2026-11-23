@@ -45,7 +45,6 @@ I specialize in building complex, autonomous systems:
 *   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)** `Deep Focus` — Minimalist, high-performance target management tool designed for deep work.
 
 ### <img src="https://api.iconify.design/ph/terminal-window-duotone.svg?color=%23E5B869" width="26" /> Open Source & Dev Tools
-*   **[CyberDeck OS Launcher](https://github.com/neurodivergent-dev/cyberdeck-launcher)** — **AI-Native Cyberpunk Android Home Replacement featuring live GLSL shaders, native AppWidgetHost binding, TSX runtime widget sandbox, and 9-provider BYOK AI.**
 *   **[RetroDeck OS (Nokia 3310 Edition)](https://github.com/neurodivergent-dev/retrodeck-arcade)** — **100-in-1 60 FPS Pocket Console & Nokia 3310 Firmware OS with real-time piezo WAV ringtone synthesis, 9-provider BYOK AI Picture SMS, and a live WAP 1.1 Web Browser.**
 *   **[Repo Intelligence Layer](https://github.com/neurodivergent-dev/repo-intelligence-layer)** — **An AI-powered intelligence layer designed to analyze, orchestrate, and chat with codebase context.**
 *   **[Mini-Meta CLI](https://github.com/neurodivergent-dev/mini-meta-cli)** — **A custom local action engine designed to automate file parsing and shell script execution via autonomous workflows.**
