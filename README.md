@@ -45,7 +45,7 @@ I specialize in building complex, autonomous systems:
 *   **[FocusTabs](https://play.google.com/store/apps/details?id=com.melihcandemir.focustabs)** `Deep Focus` — Minimalist, high-performance target management tool designed for deep work.
 
 ### <img src="https://api.iconify.design/ph/terminal-window-duotone.svg?color=%23E5B869" width="26" /> Open Source & Dev Tools
-*   **[RetroDeck OS (Nokia 3310 Edition)](https://github.com/neurodivergent-dev/retrodeck-arcade)** — **100-in-1 60 FPS Pocket Console & Nokia 3310 Firmware OS with real-time piezo WAV ringtone synthesis, 9-provider BYOK AI Picture SMS, and a live WAP 1.1 Web Browser.**
+*   **[RetroDeck OS (Nokia 3310 Edition)](https://github.com/neurodivergent-dev/retrodeck-arcade)** — **100-in-1 60 FPS Pocket Console & 17-app Nokia 3310 Firmware OS with real-time piezo WAV synthesis, 9-provider OS-controlling AI, Live AI SMS/Contacts, WAP 1.1 Browser, SomaFM Radio, 100 Themes, and an on-device Game Studio.**
 *   **[Repo Intelligence Layer](https://github.com/neurodivergent-dev/repo-intelligence-layer)** — **An AI-powered intelligence layer designed to analyze, orchestrate, and chat with codebase context.**
 *   **[Mini-Meta CLI](https://github.com/neurodivergent-dev/mini-meta-cli)** — **A custom local action engine designed to automate file parsing and shell script execution via autonomous workflows.**
 *   **[i18next-local-inference](https://github.com/neurodivergent-dev/i18next-local-inference)** — **Autonomous Application Translation Automation with Local Ollama Model Inferences.**
