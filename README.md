@@ -1,4 +1,4 @@
-![Melih Can Demir - AI-Native Product Engineer Banner](images/banner.gif)
+![Melih Can Demir - MetaFrame Labs Banner](images/metaframe.png)
 
 <p align="center">
   Building intelligent, scalable, AI-native applications.
