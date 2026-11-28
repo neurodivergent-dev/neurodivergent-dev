@@ -1,4 +1,4 @@
-![Melih Can Demir - MetaFrame Labs Banner](images/metaframe-2.png)
+![Melih Can Demir - MetaFrame Labs Banner](images/metaframe2.png)
 
 <p align="center">
   Building intelligent, scalable, AI-native applications.
